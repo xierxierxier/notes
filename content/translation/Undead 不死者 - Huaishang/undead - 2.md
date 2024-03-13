@@ -2,10 +2,12 @@
 title: Undead - 2
 draft: false
 tags:
+  - undead
+  - translation
+  - huaishang
 ---
-# Undead
 ## Chapter 2
-[[undead - home]] | [[undead - 1]] | [[undead - 3]]
+[[undead - 0]] | [[undead - 1]] | [[undead - 3]]
 
 It was the end of the world and the city had fallen into hell. The streets were lined with destroyed cars and smoke and fire filled the air as the living dead meandered.
 
@@ -267,4 +269,4 @@ Zhou Rong nodded in a friendly manner, turned, then walked to the front. He gave
 
 He leaned forward and, in a voice that only the two of them could hear, added, "Then find a place to stop. I want to see what he wants at this pharmacy."
 
-[[undead - home]] | [[undead - 1]] | [[undead - 3]]
+[[undead - 0]] | [[undead - 1]] | [[undead - 3]]

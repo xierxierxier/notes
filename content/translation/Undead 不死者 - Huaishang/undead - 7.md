@@ -2,10 +2,12 @@
 title: Undead - 7
 draft: false
 tags:
+  - undead
+  - translation
+  - huaishang
 ---
-# Undead
 ## Chapter 7
-[[undead - home]] | [[undead - 6]] | [[undead - 8]]
+[[undead - 0]] | [[undead - 6]] | [[undead - 8]]
 
 Yan Hao grabbed the railing. "Quickly run!"
 
@@ -195,4 +197,4 @@ Si Nan's head was bowed against the heat of Zhou Rong's chest. After a moment, h
 
 "We're taking the road north out of the city. We have to get out of this area before night fall." Zhou Rong steered the car with one hand, then added in a quiet voice, "In this hours time, Military Zone B's sending a nuke to clear the city. We don't have much time."
 
-[[undead - home]] | [[undead - 6]] | [[undead - 8]]
+[[undead - 0]] | [[undead - 6]] | [[undead - 8]]

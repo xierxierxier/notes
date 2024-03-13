@@ -2,10 +2,12 @@
 title: Undead - 4
 draft: false
 tags:
+  - undead
+  - translation
+  - huaishang
 ---
-# Undead
 ## Chapter 4
-[[undead - home]] | [[undead - 3]] | [[undead - 5]]
+[[undead - 0]] | [[undead - 3]] | [[undead - 5]]
 
 Si Nan did not sleep at all.
 
@@ -235,4 +237,4 @@ Si Nan had just unbuttoned the first few buttons of his shirt and was now pullin
 
 Zhou Rong stood rooted to the spot, his face ashen.
 
-[[undead - home]] | [[undead - 3]] | [[undead - 5]]
+[[undead - 0]] | [[undead - 3]] | [[undead - 5]]

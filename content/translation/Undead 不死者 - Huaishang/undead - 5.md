@@ -2,10 +2,12 @@
 title: Undead - 5
 draft: false
 tags:
+  - undead
+  - translation
+  - huaishang
 ---
-# Undead
 ## Chapter 5
-[[undead - home]] | [[undead - 4]] | [[undead - 6]]
+[[undead - 0]] | [[undead - 4]] | [[undead - 6]]
 
 "Normally people die within twenty-four hours after getting infected. You sure you didn't just get too passionate with your lover?"
 
@@ -197,4 +199,4 @@ Si Nan shook his head.
 
 Zhou Rong continued. "I was eighteen when I became my country's representative to the competition. Initially, I led the competition by a wide margin, right up until the 'hostage situation' round in Country A. The 'hostage' was a kid of Chinese descent... A fifteen year old Omega."
 
-[[undead - home]] | [[undead - 4]] | [[undead - 6]]
+[[undead - 0]] | [[undead - 4]] | [[undead - 6]]

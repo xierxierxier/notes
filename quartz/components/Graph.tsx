@@ -28,7 +28,7 @@ const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
-    depth: 1,
+    depth: 3,
     scale: 1.1,
     repelForce: 0.5,
     centerForce: 0.3,
@@ -41,7 +41,7 @@ const defaultOptions: GraphOptions = {
   globalGraph: {
     drag: true,
     zoom: true,
-    depth: -1,
+    depth: 3,
     scale: 0.9,
     repelForce: 0.5,
     centerForce: 0.3,

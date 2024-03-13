@@ -2,10 +2,12 @@
 title: Undead - 9
 draft: true
 tags:
+  - undead
+  - translation
+  - huaishang
 ---
-# Undead
 ## Chapter 9
-[[undead - home]] | [[undead - 8]] | [[undead - 10]]
+[[undead - 0]] | [[undead - 8]] | [[undead - 10]]
 
 B Military Zone. Emergency Contact Room.
 

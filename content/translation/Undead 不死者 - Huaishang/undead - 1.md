@@ -2,10 +2,12 @@
 title: Undead - 1
 draft: false
 tags:
+  - undead
+  - translation
+  - huaishang
 ---
-# Undead
 ## Chapter 1
-[[undead - home]] | [[undead - 2]]
+[[undead - 0]] | [[undead - 2]]
 
 "Merciful God, may you welcome this new soul into a place of everlasting light and happiness among the Saints, so that when the Lord Jesus comes again, those buried in Christ may rise first and enjoy everlasting life.
 
@@ -288,4 +290,4 @@ Tang Hao took the stares two at a time. He gestured to the stain of blood with t
 
 His deputy nodded.
 
-[[undead - home]] | [[undead - 2]]
+[[undead - 0]] | [[undead - 2]]

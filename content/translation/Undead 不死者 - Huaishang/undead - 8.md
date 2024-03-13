@@ -2,10 +2,12 @@
 title: Undead - 8
 draft: false
 tags:
+  - undead
+  - translation
+  - huaishang
 ---
-# Undead
 ## Chapter 8
-[[undead - home]] | [[undead - 7]] | [[undead - 9]]
+[[undead - 0]] | [[undead - 7]] | [[undead - 9]]
 
 Eight P.M.
 
@@ -187,4 +189,4 @@ Like a child who had gotten away with secretly eating a sweet, Yan Hao quietly g
 
 The inside of the car fell again into darkness. For a while Zhou Rong stared up into it then finally closed his eyes.
 
-[[undead - home]] | [[undead - 7]] | [[undead - 9]]
+[[undead - 0]] | [[undead - 7]] | [[undead - 9]]

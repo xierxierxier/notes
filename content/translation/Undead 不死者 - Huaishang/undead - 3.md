@@ -2,10 +2,12 @@
 title: Undead - 3
 draft: false
 tags:
+  - undead
+  - translation
+  - huaishang
 ---
-# Undead
 ## Chapter 3
-[[undead - home]] | [[undead - 2]] | [[undead - 4]]
+[[undead - 0]] | [[undead - 2]] | [[undead - 4]]
 
 "Surname 'Zhou'. Given name 'Rong' as in 'warhorse' (戎), not 'Rong' as in 'yellow bean paste' (容).
 
@@ -179,4 +181,4 @@ Feeling full of benevolence, Si Nan nodded to the driver, then closed his eyes t
 
 (Note: it's my guess that the 'T City' in this story is Tianjin in the Northeast of China.)
 
-[[undead - home]] | [[undead - 2]] | [[undead - 4]]
+[[undead - 0]] | [[undead - 2]] | [[undead - 4]]

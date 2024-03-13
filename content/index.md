@@ -1,6 +1,8 @@
 ---
-title: Welcome
+title: hello
 ---
+# here be monsters.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+And [[content/translation/index|translations of Chinese BL novels]].
+
+My goal is to be completely fluent in Chinese but since I'm not there yet, I might as well have some fun doing something I like.

@@ -2,10 +2,12 @@
 title: Undead - 6
 draft: false
 tags:
+  - undead
+  - translation
+  - huaishang
 ---
-# Undead
 ## Chapter 6
-[[undead - home]] | [[undead - 5]] | [[undead - 7]]
+[[undead - 0]] | [[undead - 5]] | [[undead - 7]]
 
 Those few words caused a torrent of ideas to flash through Si Nan's head but he kept his expression calm and neutral.
 
@@ -227,4 +229,4 @@ Someone on the helicopter had been infected.
 
 And here now, before their very eyes, was the beginning of another outbreak.
 
-[[undead - home]] | [[undead - 5]] | [[undead - 7]]
+[[undead - 0]] | [[undead - 5]] | [[undead - 7]]
