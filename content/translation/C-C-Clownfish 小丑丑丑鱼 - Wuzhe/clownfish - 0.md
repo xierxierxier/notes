@@ -6,6 +6,7 @@ tags:
   - translation
   - wuzhe
 ---
+![[2024 03 07.jpg]]
 # C-C-Clownfish (fan translation)
 ## Original Online Title: 小丑丑丑鱼 (xiao chou chou chou yu)
 ## Original Printed Title: 七秒 (qi miao/Seven Seconds)
