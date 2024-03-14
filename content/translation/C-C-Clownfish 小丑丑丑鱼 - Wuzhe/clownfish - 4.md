@@ -1,9 +1,9 @@
 ---
-title: C-C-Clownfish - 3
+title: C-C-Clownfish - 4
 draft: true
 tags:
   - ccclownfish
   - translation
   - wuzhe
 ---
-# Chapter 3 - Mr Merman Wants To Chat
+# Chapter 4
