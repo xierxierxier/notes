@@ -1,6 +1,6 @@
 ---
 title: C-C-Clownfish - 2
-draft: true
+draft: false
 tags:
   - ccclownfish
   - translation
