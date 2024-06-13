@@ -31,4 +31,4 @@ And why exactly is Shen Dong on this island anyway?
 All this and more cute shenanigans in Wuzhe's *C-C-Clownfish*~
 
 ## Chapters:
-[[clownfish - 1]] | [[clownfish - 2]] | [[clownfish - 3]] | [[clownfish - 4]]
+[[clownfish - 1]] | [[clownfish - 2]] | [[clownfish - 3]] | [[clownfish - 4]] | [[clownfish - 5]] | [[clownfish - 6]]
