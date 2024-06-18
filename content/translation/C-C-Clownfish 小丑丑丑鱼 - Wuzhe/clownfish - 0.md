@@ -20,7 +20,7 @@ I claim no copyright of the story or characters or anything like that, only my o
 
 Boy meets Merman.
 
-Shen Dong is one of two lighthouse keepers on a small, otherwise uninhabited island off the coast. Sky, sea, birds, every day is the same until someone new turns up.
+Shen Dong is a lighthouse keeper on a small, otherwise uninhabited island off the coast. Sky, sea, birds, every day is the same until someone new turns up.
 
 Cao Mu claims to be a clownfish, and has the memory capacity to match, but there's no way that could be true, right? Because that would make him a merman...
 
@@ -31,4 +31,4 @@ And why exactly is Shen Dong on this island anyway?
 All this and more cute shenanigans in Wuzhe's *C-C-Clownfish*~
 
 ## Chapters:
-[[clownfish - 1]] | [[clownfish - 2]] | [[clownfish - 3]] | [[clownfish - 4]] | [[clownfish - 5]] | [[clownfish - 6]]
+[[clownfish - 1]] | [[clownfish - 2]] | [[clownfish - 3]] | [[clownfish - 4]] | [[clownfish - 5]] | [[clownfish - 6]] | [[clownfish - 7]] | [[clownfish - 8]]
