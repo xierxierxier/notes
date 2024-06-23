@@ -6,7 +6,7 @@ tags:
   - translation
   - wuzhe
 ---
-# Chapter 10 - Fishy Cao is angry
+# Chapter 10 - Fishy Cao is Angry
 [[clownfish - 0]] | [[clownfish - 9]] | [[clownfish - 11]]
 
 Shen Dong didn't have much time to ponder his current predicament, Hong Jie made sure of that as he wholeheartedly urged him to get the computer. And there was Cao Mu who joined in too. He was excited as, apart from taking food from the ancestral hall, he rarely went ashore. And that was even before factoring in that this would be a group outing. In face, he was even more wholehearted in urging Shen Dong forward than Captain Jack. Not that he could remember who Captain Jack was.

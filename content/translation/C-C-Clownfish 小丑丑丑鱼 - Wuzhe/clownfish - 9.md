@@ -1,12 +1,12 @@
 ---
 title: C-C-Clownfish
-draft: true
+draft: false
 tags:
   - ccclownfish
   - translation
   - wuzhe
 ---
-# Chapter 9
+# Chapter 9 - Going Ashore
 [[clownfish - 0]] | [[clownfish - 8]] | [[clownfish - 10]]
 
 Shen Dong lay on his back. Cao Mu's right arm and leg circled his stomach and pressed down on his legs. This position made a strong, indescribable feeling well up in Shen Dong.

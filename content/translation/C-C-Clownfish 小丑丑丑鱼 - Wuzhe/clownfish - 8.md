@@ -6,7 +6,7 @@ tags:
   - translation
   - wuzhe
 ---
-# Chapter 8 - Sleep together
+# Chapter 8 - Sleep Together
 [[clownfish - 0]] | [[clownfish - 7]] | [[clownfish - 9]]
 
 Shen Dong felt like he'd just dug a hole, jumped into it then watched as Cao Mu hammered in the nails of the coffin.
