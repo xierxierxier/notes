@@ -1,5 +1,5 @@
 ---
-title: C-C-Clownfish - 5
+title: C-C-Clownfish
 draft: false
 tags:
   - ccclownfish

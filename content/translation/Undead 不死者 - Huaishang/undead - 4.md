@@ -1,5 +1,5 @@
 ---
-title: Undead - 4
+title: Undead
 draft: false
 tags:
   - undead
