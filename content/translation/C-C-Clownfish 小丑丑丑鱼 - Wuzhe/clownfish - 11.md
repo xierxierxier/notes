@@ -9,7 +9,7 @@ tags:
 # Chapter 11 - Shopping Threesome
 [[clownfish - 0]] | [[clownfish - 10]] | [[clownfish - 12]]
 
-Shen Dong wasn't a good tempered person by nature so if this had been before he'd set food on the island, and if it was a group of guys, not girls, he would have already raised his fists. It wouldn't have mattered if they didn't have bad intentions. They had already made him feel uncomfortable. But after living like a hermit on the island all these years, the temper of his had already been worn down. He didn't want to cause a fuss. He just wanted to quickly and quietly get his business down in the town then go, and besides, these were people that Hong Jie knew.
+Shen Dong wasn't a good tempered person by nature so if this had been before he'd set foot on the island, and if it was a group of guys, not girls, he would have already raised his fists. It wouldn't have mattered if they didn't have bad intentions. They had already made him feel uncomfortable. But after living like a hermit on the island all these years, the temper of his had already been worn down. He didn't want to cause a fuss. He just wanted to quickly and quietly get his business down in the town then go, and besides, these were people that Hong Jie knew.
 
 But he knew that even Hong Jie couldn't have anticipated such hot words from Cao Mu.
 
